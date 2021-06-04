@@ -1,8 +1,8 @@
 var pos = 0;
 let pageWidth = window.innerWidth;
 const pacArray = [
-  ["C:\Users\mered\Downloads\Pac-Man Coding Assignment\Pac-Man Coding Assignment\PacMan\mrs_pac_close_to_right.jpg", "C:\Users\mered\Downloads\Pac-Man Coding Assignment\Pac-Man Coding Assignment\PacMan\mrs_open_right.jpg"],
-  ["C:\Users\mered\Downloads\Pac-Man Coding Assignment\Pac-Man Coding Assignment\PacMan\mrs_pac_close_to_left.jpg", "C:\Users\mered\Downloads\Pac-Man Coding Assignment\Pac-Man Coding Assignment\PacMan\mrs_pac_open_left.jpg"],
+  ["", ""],
+  ["", ""],
 ];
 var direction = 0;
 var focus = 0;
