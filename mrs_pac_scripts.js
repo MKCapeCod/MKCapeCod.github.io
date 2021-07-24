@@ -1,4 +1,5 @@
-
+document.body.innerHTML =
+    
     var pos = 0;
     const pacArray = [
         ['https://github.com/MKCapeCod/MKCapeCod.github.io/blob/main/mrs_pac_1.jpg?raw=true', 'https://github.com/MKCapeCod/MKCapeCod.github.io/blob/main/mrs_pac_2.jpg?raw=true'],
